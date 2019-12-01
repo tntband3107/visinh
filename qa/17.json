@@ -1,0 +1,12 @@
+{
+    "q": "Trong hình gồm những vi khuẩn nào, phương pháp nhuộm là gì ?",
+    "a": "chuỗi cầu khuẩn, trực khuẩn 2 đầu tròn, nhuộm gram",
+    "n": [
+        "chuỗi cầu khuẩn, nhuộm đơn đỏ",
+        "chuỗi cầu khuẩn, trực khuẩn 2 đầu tròn, nhuộm đơn tím",
+        "trực khuẩn 2 đầu vuông, trực khuẩn 2 đầu tròn, nhuộm đơn đỏ",
+        "trực khuẩn 2 đầu vuông, trực khuẩn 2 đầu tròn, nhuộm đơn tím",
+        "chuỗi cầu khuẩn, trực khuẩn 2 đầu tròn, nhuộm đơn đỏ",
+        "chuỗi cầu khuẩn, nhuộm gram"
+    ]
+}

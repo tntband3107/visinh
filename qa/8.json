@@ -1,0 +1,11 @@
+{
+    "q": "Trong hình gồm những vi khuẩn nào, phương pháp nhuộm là gì ?",
+    "a": "nha bào uống ván clostridium tetani, nhuộm nội bào tử",
+    "n": [
+        "cầu khuẩn, trực khuẩn 2 đầu tròn, nhuộm gram",
+        "cầu khuẩn, trực khuẩn 2 đầu vuông, nhuộm gram",
+        "nha bào Bacullus anthracus, nhuộm gram",
+        "nha bào uống ván clostridium tetani, nhuộm gram",
+        "nha bào Bacullus anthracus, nhuộm nội bào tử", "nha bào độc thịt clostridium botulium, nhuộm nội bào tử"
+    ]
+}
